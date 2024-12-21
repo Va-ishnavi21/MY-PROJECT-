@@ -1,4 +1,4 @@
-# MY-PROJECT-
+# MY-First PROJECT-
 About my first project on GitHub
 This Python script impliments a basic pipeline for retrieving relevant information from a PDF and generating answers to user queries using a combination of machine learning tools.
 * Extracting text from PDF
